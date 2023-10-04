@@ -59,16 +59,13 @@ a:hover{
     color: #5d151e;
 }
 
-.picture{
-    position: relative;
-    left: 400px;
-}
+
 
 .picture > headshot,
 .pictureText{
     position: absolute;
-    top: 90px;
-    left: 10px;
+    top: 100px;
+    left: 50px;
     font-family: 'Josefin Sans', sans-serif;
     color: #b33544;
     background-color: #F0E5BB;
